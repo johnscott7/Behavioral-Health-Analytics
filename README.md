@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/johnscott7/Behavioral-Health-Analytics/blob/main/docs/BehavioralHealth.jpg"
+  <img src="https://raw.githubusercontent.com/johnscott7/Behavioral-Health-Analytics/main/docs/BehavioralHealth.jpg"
   alt="Behavioral Health Analytics Banner" 
   width="800">
   <br>
